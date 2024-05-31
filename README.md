@@ -1,1 +1,1 @@
-The file is open.
+Chan changed the file name.
