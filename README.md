@@ -1,1 +1,2 @@
-Chan changed the file name to something
+Git
+README.md file updated
